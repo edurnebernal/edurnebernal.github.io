@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Edurne Bernal Berdun"
   avatar           : "profile.png"
-  bio              : "PhD Student at the Graphics and Imaging Lab"
+  bio              : "<img src="images/bio-photo.jpg" alt="Teaser" id="teaser" width="4" height="4"> PhD Student at the Graphics and Imaging Lab"
   location         : "Universidad de Zaragoza - I3A"
   employer         :
   pubmed           : 
