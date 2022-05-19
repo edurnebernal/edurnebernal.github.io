@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Edurne Bernal Berdun"
   avatar           : "profile.png"
-  bio              : "<img src="images/bio-photo.jpg" alt="Teaser" id="teaser" width="4" height="4"> PhD Student at the Graphics and Imaging Lab"
+  bio              : "PhD Student at the Graphics and Imaging Lab"
   location         : "Universidad de Zaragoza - I3A"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "Edurne Bernal Berdún"
   orcid            : "https://orcid.org/0000-0002-5275-8652"
   pinterest        :
   soundcloud       :
