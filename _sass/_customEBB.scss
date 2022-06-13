@@ -1,0 +1,30 @@
+.publication_item {
+    background-color: rgb(249, 249, 249);
+    border-radius:11pt;
+    border-style: groove;
+    border-color:rgb(255 255 255 / 23%);
+    border-width: 2px;
+   }
+   .content div {
+     padding: 10px;
+   }
+   .pull-left {
+     float: left;
+     width: 25%;
+   }
+   .media-body {
+     float: right;
+     width: 75%;
+   }
+.label-primary
+{
+ background-color: rgb(0 0 0);
+ color: white;
+ border-radius:4pt;
+ border-style: groove;
+ border-color:rgb(255 255 255 / 23%);
+ border-width: 1px;
+ cursor: pointer;
+ padding: 2px 6px 2px 6px;
+ text-decoration: none;
+}
