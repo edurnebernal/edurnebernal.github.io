@@ -1,5 +1,5 @@
 .publication_item {
-    background-color: rgb(249, 249, 249);
+    background-color: rgba(255, 255, 255, 0.23);
     border-radius:11pt;
     border-style: groove;
     border-color:rgb(160, 160, 160);
@@ -41,7 +41,8 @@
 }
 .categ-jour
 {
+    margin-right: 5%;
     float: right;
-    font-size: 8pt;
+    font-size: 10pt;
     color:rgb(0, 0, 0);  
 }
