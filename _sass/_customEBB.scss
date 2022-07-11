@@ -35,7 +35,7 @@
 }
 .pub-site
 {
-    float:right;
+    // float:right;
     font-style: italic;
     color:rgb(4, 62, 65);
 }
@@ -48,13 +48,7 @@
 }
 
 /* Formato de publications de Diego */
-.table_publications{	
-    background-color: rgb(249, 249, 249);
-    border-radius:11pt;
-    border-style: groove;
-    border-color:#ffffff3b;
-    border-width: 2px;
-}
+
 .table_publications p{	
 	width: auto;
 	max-width: none;
