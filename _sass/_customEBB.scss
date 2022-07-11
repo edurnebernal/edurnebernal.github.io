@@ -48,12 +48,16 @@
 }
 
 /* Formato de publications de Diego */
-
+.table_publications{	
+    background-color: rgb(249, 249, 249);
+    border-radius:11pt;
+    border-style: groove;
+    border-color:#ffffff3b;
+    border-width: 2px;
+}
 .table_publications p{	
 	width: auto;
 	max-width: none;
-	margin: 0 auto;
-    border:rgb(249, 249, 249);
 }
 
 .table_publications tr{	
@@ -206,12 +210,12 @@
 		text-align:center;
 		display:block;
 	}
-	// .table_publications thead:first-child th{
-	// 	padding-top:20px;
-	// }
-	// .table_publications tbody tr:first-child > td{
-	// 	padding-top:5px;
-	// }
+	.table_publications thead:first-child th{
+		padding-top:20px;
+	}
+	.table_publications tbody tr:first-child > td{
+		padding-top:5px;
+	}
 	
 	
 }
