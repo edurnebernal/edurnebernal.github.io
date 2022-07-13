@@ -47,6 +47,16 @@
     color:rgb(0, 0, 0);  
 }
 
+.brmedium {
+	display: block;
+	margin-bottom: 1em;
+}
+
+.brlarge {
+	display: block;
+	margin-bottom: 2em;
+}
+
 /* Formato de publications de Diego */
 
 .table_publications p{	
@@ -79,7 +89,7 @@
 
 .table_publications em,i,strong,b{	
 
-	line-height:2rem !important;
+	// line-height:2rem !important;
 }
 
 .imagestyle img{
