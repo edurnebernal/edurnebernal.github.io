@@ -56,7 +56,13 @@
 	display: block;
 	margin-bottom: 1em;
 }
-
+.supervision_item {
+    background-color:rgb(249, 249, 249);
+    border-radius:2pt;
+    border-style: groove;
+    border-color:rgb(255 255 255 / 23%);
+    border-width: 2px;
+}
 /* Formato de publications de Diego */
 
 .table_publications p{	
