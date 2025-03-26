@@ -119,10 +119,14 @@ input, select, textarea {
 			color: #3a3a3a !important;
 		}
 
-	strong, b {
+	strong {
 		color: #d29484 ;
 		font-weight: 600;
 		font-style: italic;
+	}
+	b {
+		color: #9d7c73 ;
+		font-weight: 600;
 	}
 
 	em, i {
