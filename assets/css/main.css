@@ -335,7 +335,7 @@ input, select, textarea {
 		}
 
 		.row > .col-6 {
-			width: 50%;
+			width: 33%;
 		}
 
 		.row > .off-6 {
@@ -2198,6 +2198,16 @@ input, select, textarea {
 			.image.fit img {
 				display: block;
 				width: 100%;
+			}
+		.image.custom {
+			display: block;
+			margin: 1em 0 1em 0;
+			width: 70%;
+		}
+
+			.image.custom img {
+				display: block;
+				width: 70%;
 			}
 
 		.image.avatar {
